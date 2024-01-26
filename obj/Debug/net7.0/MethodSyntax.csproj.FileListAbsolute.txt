@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/bin/Debug/net7.0/MethodSyntax
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/bin/Debug/net7.0/MethodSyntax.deps.json
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/bin/Debug/net7.0/MethodSyntax.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/bin/Debug/net7.0/MethodSyntax.dll
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/bin/Debug/net7.0/MethodSyntax.pdb
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.dll
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/refint/MethodSyntax.dll
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.pdb
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/MethodSyntax.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/MethodSyntax/MethodSyntax/obj/Debug/net7.0/ref/MethodSyntax.dll
